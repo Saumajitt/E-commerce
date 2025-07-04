@@ -1,2 +1,2 @@
-# E-commerce
-E-commerce website with MERN
+#StayScape
+AirBnb Clone with MERN
